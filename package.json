@@ -1,0 +1,19 @@
+{
+  "name": "paytm",
+  "version": "1.0.0",
+  "description": "Paytm payment transfer application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "BIRAJ HALDER",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.3.2",
+    "@material-ui/icons": "^4.2.1",
+    "D": "^1.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
